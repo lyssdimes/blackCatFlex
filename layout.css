@@ -6,7 +6,6 @@
     flex-wrap: wrap;
     flex-direction: column;
     max-width: 90vh;
-    max-width: 90vh;
     border-radius: 5px;
     padding: 20px 20px;
     margin: 5px 5px;
@@ -28,6 +27,8 @@ max-height: 40%;
     text-align: center;
     border-radius: 10px;
 }
+
+footer{margin-top: 20px;}
 
 ol{
     list-style-type: none;
